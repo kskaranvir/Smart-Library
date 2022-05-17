@@ -1,0 +1,8 @@
+.bg {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+}
+
+.footer text-center {
+    color: white;
+}
